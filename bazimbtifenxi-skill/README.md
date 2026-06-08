@@ -1,4 +1,4 @@
-# 🏯 Bazi Skill — 四柱八字命理分析
+# 🏯 Bazimbtifenxi Skill — 四柱八字命理分析
 
 > Claude Code Skill · 用命理帮人认识自己
 
